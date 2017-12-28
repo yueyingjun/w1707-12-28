@@ -1,0 +1,3 @@
+todolist:            https://futurewp.github.io/futurewpvuelx/todolist/todolist
+
+searchup:             https://futurewp.github.io/futurewpvuelx/searchup/searchup
