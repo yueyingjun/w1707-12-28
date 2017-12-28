@@ -19,7 +19,7 @@ new Vue({
                     if(val){
                         ele.title = val;
                     }else {ele.title = val;
-                        this.list = this.list.filter(e=>{e.id != ele.id});
+                        this.list = this.list.filter(e=>{return e.id != ele.id});
                     }
                 }
             });
