@@ -1,2 +1,2 @@
-https://hongda12345.github.io/todolist/
-https://hongda12345.github.io/searchup/
+https://hongda12345.github.io/todolist/todolisttodolist.html
+https://hongda12345.github.io/searchup/searchup.html
