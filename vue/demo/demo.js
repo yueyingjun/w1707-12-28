@@ -24,7 +24,7 @@ new Vue({
                 }
             });
             if(flag){
-                this.list.push({id:this.list.length, title: val, isSelected: true});
+                this.list.push({id:Date.now(), title: val, isSelected: true});
             }
         },
         selected(item){
