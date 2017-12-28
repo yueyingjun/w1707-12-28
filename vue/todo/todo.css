@@ -1,0 +1,49 @@
+*{
+		margin: 0;
+		padding: 0;
+		list-style: none;
+	}
+	#app{
+		width: 300px;
+		height: auto;
+		margin: 0 auto;
+	}
+	header input{
+		margin: 20px auto;
+	}
+	.status{
+		width: 300px;
+		height: 30px;
+		margin: 20px auto;
+		margin-left: 126px;
+	}
+	.status button{
+		width: 50px;
+		height: 30px;
+		margin-left: 5px;
+	}
+	.opt{
+		display: inline-block;
+		width: 10px;
+		height: 10px;
+		border-radius: 50%;
+		border: 1px solid #000;
+		margin-right: 5px;
+		cursor: pointer;
+	}
+	.check{
+		color: red!important;
+	}
+	.active{
+		background: red;
+	}
+	ul li{
+		width: 300px;
+		height: 40px;
+		margin: 0 auto;
+	}
+	ul li button{
+		width: 50px;
+		height: 30px;
+		float: right;
+	}
